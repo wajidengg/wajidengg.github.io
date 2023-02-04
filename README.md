@@ -1,6 +1,6 @@
 # Wajid Hussain
 
-<img src="/wajid_pic.jpg" width="200 px">
+<img src="/20190605_183803.jpg" width="200 px">
 
 ### Hi, I'm Wajid Hussain. I'm interested in AI/ML.
 
