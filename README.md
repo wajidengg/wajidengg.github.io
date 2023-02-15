@@ -1,6 +1,4 @@
----
-title: Home
----
+
 # Wajid Hussain
 
 <img src="/20190605_183803.jpg" width="200 px">
