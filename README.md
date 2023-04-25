@@ -15,4 +15,4 @@ Previously I've worked as an Electrical Engineer/MEP in construction(High rise a
 Feel free to ping me @
 [LinkedIn](https://www.linkedin.com/in/whussain/) & [Twitter](https://twitter.com/wajidengg)
 
-[Click for my CV](https://github.com/wajidengg/wajidengg.github.io/Wajid_Hussain_CV_.pdf)
+[Click for my CV](https://github.com/wajidengg/wajidengg.github.io/blob/2a4ecd6088b4c049a51c74a392cd7b52eae71bf4/Wajid_Hussain_CV_.pdf)
