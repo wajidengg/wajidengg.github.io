@@ -12,5 +12,7 @@ Sample projects I've built from the class:
 
 Previously I've worked as an Electrical Engineer/MEP in construction(High rise and Infrastructure) for over 10 years in Saudi Arabia.
 
-Feel free to ping me@
+Feel free to ping me @
 [LinkedIn](https://www.linkedin.com/in/whussain/) & [Twitter](https://twitter.com/wajidengg)
+
+[Click for my CV](https://github.com/wajidengg/wajidengg.github.io/Wajid_Hussain_CV_.pdf)
