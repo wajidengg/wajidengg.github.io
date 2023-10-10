@@ -1,18 +1,17 @@
 
 # Wajid Hussain
 
-<img src="/20190605_183803.jpg" width="200 px">
+<img src="/20190605_183803.jpg" width="175 px">
 
 ### Hi, I'm Wajid Hussain. I'm interested in AI/ML.
-I'm currently learning Deep learning from [course.fast.ai](https://course.fast.ai/).
+Studying Master of Science in Cyber-Physical Systems at Northeastern University, Toronto
 
-Sample projects I've built from the class:
+Sample projects I've built:
 - [Cats and Dogs classifier](https://github.com/wajidengg/cats-dogs) hosted on [Hugging Face](https://huggingface.co/spaces/wajidengg/pets1)
 
 
-Previously I've worked as an Electrical Engineer/MEP in construction(High rise and Infrastructure) for over 10 years in Saudi Arabia.
+Previously I've worked as an Electrical Engineer/MEP in construction (High rise and Infrastructure) for over 10 years in Saudi Arabia.
 
 Feel free to ping me @
 [LinkedIn](https://www.linkedin.com/in/whussain/) & [Twitter](https://twitter.com/wajidengg)
 
-[Click for my CV](https://github.com/wajidengg/wajidengg.github.io/blob/2a4ecd6088b4c049a51c74a392cd7b52eae71bf4/Wajid_Hussain_CV_.pdf)
