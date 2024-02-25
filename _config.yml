@@ -1,9 +1,6 @@
-remote_theme: pages-themes/hacker
-plugins:
-- jekyll-remote-theme
-
-title: Personal website
+title: Wajid Hussain
 description: Wajid Hussain's personal website.
-
+show_downloads: false
 author:
   name: Wajid Hussain
+theme: jekyll-theme-minimal
