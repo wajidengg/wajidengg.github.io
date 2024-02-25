@@ -4,8 +4,8 @@
 #### Technical Skills: Python, SQL, AWS, Java, Wireshark
 
 ## Education
-M.S., Cyber-Physical Systems | Northeastern University (_Pursuing, Apr 2025_)
-B.Tech., Electrical and Electronics Engineering | Jawaharlal Nehru Technological University (_May 2008_) 
+- M.S., Cyber-Physical Systems | Northeastern University (_Pursuing, Apr 2025_)
+- B.Tech., Electrical and Electronics Engineering | Jawaharlal Nehru Technological University (_May 2008_) 
 
 ## Work Experience
 **Graduate Teaching Assistant @ Northeastern University (_Jan 2024 - Present_)**
