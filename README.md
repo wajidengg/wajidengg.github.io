@@ -5,7 +5,11 @@
 
 ## Education
 - M.S., Cyber-Physical Systems | Northeastern University (_Pursuing, Apr 2025_)
-- B.Tech., Electrical and Electronics Engineering | Jawaharlal Nehru Technological University (_May 2008_) 
+- B.Tech., Electrical and Electronics Engineering | Jawaharlal Nehru Technological University (_May 2008_)
+
+## Certification
+- Chartered Engineer (India), Institution of Engineers India
+- Associate Engineer, Saudi Council of Engineers
 
 ## Work Experience
 **Graduate Teaching Assistant @ Northeastern University (_Jan 2024 - Present_)**
