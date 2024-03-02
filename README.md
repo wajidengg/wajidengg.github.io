@@ -4,10 +4,10 @@
 #### Technical Skills: Python, SQL, AWS, Java, Wireshark
 
 ## Education
-- M.S., Cyber-Physical Systems
-  **Northeastern University (_Pursuing, Apr 2025_)**
-- B.Tech., Electrical and Electronics Engineering
-  **Jawaharlal Nehru Technological University (_May 2008_)**
+- M.S., Cyber-Physical Systems  
+**Northeastern University (_Pursuing, Apr 2025_)**
+- B.Tech., Electrical and Electronics Engineering  
+**Jawaharlal Nehru Technological University (_May 2008_)**
 
 ## Certification
 - Chartered Engineer (India), Institution of Engineers India
