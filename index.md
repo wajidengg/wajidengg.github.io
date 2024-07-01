@@ -1,9 +1,8 @@
 ---
-layout: home
+layout: single
 author_profile: true
+title: "Data Scientist"
 ---
-
-# Data Scientist
 
 #### Technical Skills: Python, SQL, AWS, Java, Wireshark
 
