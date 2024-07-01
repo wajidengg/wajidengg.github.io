@@ -11,7 +11,7 @@ author:
 remote_theme: mmistakes/minimal-mistakes@4.25.1  # Adjust version as needed
 
 plugins:
-  - jekyll-remote-theme
+- jekyll-remote-theme
 
 # Minimal Mistakes specific settings
 minimal_mistakes_skin: dark  # Enable dark mode
