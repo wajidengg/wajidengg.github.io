@@ -1,50 +1,11 @@
-# Site Settings
-locale                   : "en-US"
-title                    : "Wajid Hussain"
-title_separator          : "-"
-subtitle                 : "Personal Website"
-name                     : "Wajid Hussain"
-description              : "Wajid Hussain's personal website showcasing projects and experiences in IoT, embedded systems, and data science."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-logo                     : "/assets/img/headshot_circle.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : true # true, false (default)
-words_per_minute         : 200
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "dark"
 
-# Site Author
-author:
-  name             : "Wajid Hussain"
-  avatar           : "/assets/img/headshot_circle.png"
-  bio              : "Electrical Engineer transitioning to IoT and Data Science"
-  location         : "Toronto, Canada"
-  email            : 
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:wajidengg@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://wajidengg.github.io"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/wajidengg"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/whussain"
+title: "Wajid Hussain"
+name: "Wajid Hussain"
+description: "Wajid Hussain's personal website showcasing projects and experiences in IoT, embedded systems, and data science."
+url: "https://wajidengg.github.io"
 
-# Site Footer
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/wajidengg"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/whussain"
-
-# Plugins (previously gems:)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -52,15 +13,22 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
+author:
+  name: "Wajid Hussain"
+  avatar: "/assets/img/headshot_circle.png"
+  bio: "Electrical Engineer transitioning to IoT and Data Science"
+  location: "Toronto, Canada"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:wajidengg@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/wajidengg"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/whussain"
 
-# Defaults
 defaults:
   # _posts
   - scope:
@@ -70,10 +38,13 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: false
       share: true
       related: true
-
-# Theme Settings
-remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "dark"
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
