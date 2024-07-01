@@ -4,13 +4,13 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon
 # Site Settings
 locale: "en-US"
 title: "Wajid Hussain"
-subtitle: "Electrical Engineer | IoT | Embedded Systems | Data Science"
+subtitle: "Bridging Bits and Volts: From Power Systems to Data Streams"
 name: "Wajid Hussain"
 description: "Wajid Hussain's professional portfolio showcasing expertise in Electrical Engineering, IoT, and Data Science."
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-logo: "/assets/img/headshot_circle.png"
+repository: "wajidengg/wajidengg.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+logo: ""
 masthead_title: " " # Removes the site title from the masthead
 
 # Site Author
@@ -22,7 +22,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:wajidengg@gmail.com"
+      url: "mailto:"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://wajidengg.github.io"
