@@ -60,6 +60,20 @@ whitelist:
   - jekyll-feed
   - jekyll-include-cache
 
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+
 # Theme Settings
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "dark"
