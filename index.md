@@ -33,7 +33,8 @@ operation and maintenance.
 ## Projects
 
 Sample projects I've built:
-- [Cats and Dogs classifier](https://github.com/wajidengg/cats-dogs) hosted on [Hugging Face](https://huggingface.co/spaces/wajidengg/pets1)
+- [Cats and Dogs classifier](https://github.com/wajidengg/cats-dogs) hosted on [Hugging Face - Pets](https://huggingface.co/spaces/wajidengg/pets1)
+- [Face Detection] hosted on [Hugging Face - Face detection](https://huggingface.co/spaces/wajidengg/face-detection1)
 - [Library System](https://github.com/AbdulAzeem-Syed/main-project-5100) - Contributed 
 
 ### List of Construction Projects I've Worked On in Saudi Arabia ###
