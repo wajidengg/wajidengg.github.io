@@ -1,9 +1,17 @@
+# _config.yml
+
 title: Wajid Hussain
-#description: Wajid Hussain's personal website.
+description: Wajid Hussain's personal website.
 logo: /assets/img/headshot_circle.png
 show_downloads: false
+
 author:
   name: Wajid Hussain
-remote_theme: pages-themes/minimal@v0.2.0
+
+remote_theme: mmistakes/minimal-mistakes@4.25.1  # Adjust version as needed
+
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
+
+# Minimal Mistakes specific settings
+minimal_mistakes_skin: dark  # Enable dark mode
