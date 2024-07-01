@@ -1,20 +1,90 @@
-title: Wajid Hussain
-description: Electrical Engineer | IoT | Embedded Systems | Data Science
-logo: /assets/img/headshot_circle.png
-show_downloads: false
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Settings
+locale: "en-US"
+title: "Wajid Hussain"
+subtitle: "Electrical Engineer | IoT | Embedded Systems | Data Science"
+name: "Wajid Hussain"
+description: "Wajid Hussain's professional portfolio showcasing expertise in Electrical Engineering, IoT, and Data Science."
+url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: # the subpath of your site, e.g. "/blog"
+repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+logo: "/assets/img/headshot_circle.png"
+masthead_title: " " # Removes the site title from the masthead
+
+# Site Author
 author:
-  name: Wajid Hussain
-remote_theme: pages-themes/minimal@v0.2.0
+  name: "Wajid Hussain"
+  avatar: "/assets/img/headshot_circle.png"
+  bio: "Electrical Engineer transitioning to IoT and Data Science"
+  location: "Toronto, Canada"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:wajidengg@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://wajidengg.github.io"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/wajidengg"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/whussain"
+
+# Site Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/wajidengg"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/whussain"
+
+# Defaults
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# Plugins
 plugins:
-- jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 
-# Custom CSS for dark mode and professional look
-sass:
-  style: compressed
-
-# Additional settings
-google_analytics: # Add your Google Analytics tracking ID here if you have one
-
-# Custom variables
-github_username: wajidengg # Replace with your GitHub username
-linkedin_username: whussain # Replace with your LinkedIn username
+# Exclude from processing
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - package-lock.json
+  - Rakefile
+  - README
+  - tmp
