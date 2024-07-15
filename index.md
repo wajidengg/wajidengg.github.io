@@ -75,15 +75,3 @@ I'm a dedicated Cyber-Physical Systems engineer with a strong background in Elec
 - Chartered Engineer (CEng) - India
 - Member, The Institution of Engineers India (IEI)
 
----
-
-### Contact
-
-- Email: wajidengg@gmail.com
-- Phone: 343-777-9963
-- LinkedIn: [Your LinkedIn Profile URL]
-- GitHub: [https://github.com/wajidengg](https://github.com/wajidengg)
-
----
-
-© 2024 Wajid Hussain. All rights reserved.
