@@ -70,6 +70,7 @@ Security Forces Medical Center (Saudi Mega-Project)
 
 Burj Rafal (Tallest in Riyadh at the time of completion @ 307 m)
 - Led the on-site coordination and supervision of MEP activities for Burj Rafal, with a specific emphasis on electrical systems. Ensured the successful execution of low-current infrastructure, including security and building automation systems, contributing to the overall functionality and safety of the iconic skyscraper.
+
 ---
 
 ### Certifications
