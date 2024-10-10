@@ -1,4 +1,3 @@
-
 # Data Scientist
 
 #### Technical Skills: Python, SQL, AWS, Java, Wireshark
@@ -34,13 +33,13 @@ Sample projects I've built:
 - [Library System](https://github.com/AbdulAzeem-Syed/main-project-5100) - Contributed 
 
 ### List of Construction Projects I've Worked On in Saudi Arabia ###
-**King Saud University - Medical City Extension**
+King Saud University - Medical City Extension
 - Directed on-site MEP activities with a focus on electrical systems for the Medical City Extension project. Coordinated the installation and testing of low-current systems, including medical equipment integration, ensuring compliance with specifications and regulatory standards.
   
-**Security Forces Medical Center (Saudi Mega-Project)**
+Security Forces Medical Center (Saudi Mega-Project)
 - Led the MEP system installation, testing, and commissioning at the Security Forces Medical Center, overseeing the integration of complex systems. Provided detailed documentation and training for client operation and maintenance.
 
-**Burj Rafal (Tallest in Riyadh at the time of completion @ 307 m)**
+Burj Rafal (Tallest in Riyadh at the time of completion @ 307 m)
 - Led the on-site coordination and supervision of MEP activities for Burj Rafal, with a specific emphasis on electrical systems. Ensured the successful execution of low-current infrastructure, including security and building automation systems, contributing to the overall functionality and safety of the iconic skyscraper.
 
 Feel free to ping me @
