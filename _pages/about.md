@@ -21,9 +21,9 @@ With over a decade of industry experience in electrical engineering and MEP coor
 
 ## Education
 
-* **MS in Cyber-Physical Systems (IoT Concentration)** | Northeastern University, Toronto
-  * GPA: 3.798/4.0 | April 2025
-  * Key Courses: IoT Embedded System Design (A), Connected Devices (A), Network Structures & Cloud Computing (A-), Fundamentals of Internet of Things (A), Data Science Engineering Methods (B+)
+* **MS in Cyber-Physical Systems (IoT Concentration)**, Northeastern University, Toronto, Canada
+  * GPA: 3.798/4.0, April 2025
+  * Key Courses: IoT Embedded System Design, Connected Devices, Network Structures & Cloud Computing, Fundamentals of Internet of Things, Data Science Engineering Methods
 
-* **BTech in Electrical & Electronics Engineering** | Jawaharlal Nehru Technological University, Hyderabad, India
+* **BTech in Electrical & Electronics Engineering**, Jawaharlal Nehru Technological University, Hyderabad, India
   * 2004 - 2008

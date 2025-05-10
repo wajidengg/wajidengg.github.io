@@ -11,54 +11,91 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Cyber-Physical Systems, Northeastern University, 2023 - 2025
+* B.Tech. in Electrical and Electronics Engineering, Jawaharlal Nehru Technological University, 2004 - 2008
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Graduate Teaching Assistant
+**Northeastern University, Toronto, ON** | Jan 2024 - April 2025
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Assisted instructors with TELE6510: Fundamentals of Internet of Things (IoT) course
+* Delivered constructive feedback to students, enhancing their understanding of IoT systems
+* Facilitated discussions and graded assignments over three semesters
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Electrical Engineer / MEP Coordinator
+**ABV Rock Group, Riyadh, Saudi Arabia** | 2014 - 2020
+
+* Supervised installation, testing, and commissioning of MEP systems for projects valued between $50M and $4.7B
+* Managed integration of Schneider Electric switchgear, Honeywell BMS systems, and various IT systems
+* Ensured successful project delivery through documentation and client training
+
+## Electrical Engineer / MEP Coordinator
+**Dubai Contracting Company, Riyadh, Saudi Arabia** | 2013 - 2014
+
+* Coordinated electro-mechanical site activities for the Burj Rafal project in Riyadh
+* Maintained communication between contractors and consultants, producing detailed reports
+* Ensured compliance with project specifications and HSE standards
+
+## Electrical Engineer
+**World Energy Contracting Company, Dammam, Saudi Arabia** | 2010 - 2012
+
+* Supervised on-site installation of switchgear and cable laying for SEC projects
+* Led installation, testing, and commissioning of relay protection panels
+
+## Notable Construction Projects
+
+### King Saud University Medical City
+* Directed on-site MEP activities, focusing on electrical systems integration
+* Supervised installation of 5 x 2.5 MVA gensets with synchronizing panels
+
+### Security Forces Medical Center
+* Led MEP system installation for this Saudi mega-project (Residential Villas, Utility buildings and Infrastructure)
+
+### Burj Rafal (307m)
+* Coordinated MEP activities for the tallest building in Riyadh at time of completion
+
+### Ministry of Interior HQ, Riyadh
+• Supervised the snag list and client handover process for the Secure Helipad and Lobby areas, covering systems such as lighting, CCTV, fire alarm, BMS, and public address.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## IoT & Embedded Systems
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Embedded Systems Development (ESP32, Arduino, FreeRTOS)
+* IoT Protocols (MQTT, LoRa, BLE)
+* Sensor Integration and Data Acquisition
+* Edge Computing Architectures
+* Real-Time Operating Systems
+
+## Programming & Development
+
+* Python for Data Analysis and System Integration
+* C/C++ for Embedded Applications
+* SQL for Database Management
+* Git for Version Control
+* Docker for Containerization
+
+## Cloud & Data
+
+* AWS IoT Services
+* Data Analytics and Visualization
+* Time-Series Databases
+* API Development
+* IoT Dashboards
+
+## Electrical & Building Systems
+
+* Electrical System Design
+* Building Management Systems (BMS)
+* Industrial Control Systems
+* System Integration and Commissioning
+* MEP Coordination
+
+## Tools & Technologies
+
+* ESP32, LoRa, MQTT
+* Python, Git, Linux
+* AWS, Docker, API Development
+* AutoCAD
+* FreeRTOS, Edge Computing
