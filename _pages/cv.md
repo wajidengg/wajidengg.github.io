@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[View my complete CV (PDF)](/files/Wajid_CV_cyps.pdf)
+
 Education
 ======
 * M.S. in Cyber-Physical Systems, Northeastern University, 2023 - 2025

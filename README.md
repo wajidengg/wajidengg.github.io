@@ -1,96 +1,79 @@
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+# Wajid Hussain - Personal Portfolio
 
-![Academic Pages template example](images/homepage.png "Academic Pages template example")
+This repository hosts my personal portfolio website showcasing my experience, projects, and expertise in Cyber-Physical Systems and IoT.
 
-# Getting Started
+## About Me
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your public repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+I am a Cyber-Physical Systems engineer with a unique blend of IoT expertise and extensive electrical engineering experience. Recently graduating with an **MS in Cyber-Physical Systems** (3.798 GPA) from Northeastern University Toronto, I bridge the gap between physical infrastructure and digital technologies.
 
-See more info at https://academicpages.github.io/
+With over a decade of industry experience in electrical engineering and MEP coordination for large-scale projects, I bring a practical understanding of how IoT technologies can transform traditional systems.
 
-## Running locally
+## Featured Projects
 
-When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
+### [Intelligent Solar Panel Orientation System (ISPOS)](https://github.com/wajidengg/ispos)
 
-1. Clone the repository and made updates as detailed above.
+An IoT-based solar tracking system using ESP32-CAM for image processing, LoRa for communication, and edge computing with astronomical models for adaptive panel orientation.
 
-### Using a different IDE
-1. Make sure you have ruby-dev, bundler, and nodejs installed
-    
-    On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
-    ```bash
-    sudo apt install ruby-dev ruby-bundler nodejs
-    ```
-    If you see error `Unable to locate package ruby-bundler`, `Unable to locate package nodejs `, run the following:
-    ```bash
-    sudo apt update && sudo apt upgrade -y
-    ```
-    then try run `sudo apt install ruby-dev ruby-bundler nodejs` again.
+**Key Technologies:** ESP32-CAM, LoRa, MQTT, Python, OpenCV
 
-    On MacOS the commands are:
-    ```bash
-    brew install ruby
-    brew install node
-    gem install bundler
-    ```
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
+**Achievements:** 18-22% improvement in energy capture compared to fixed panels, 99.7% system reliability during testing.
 
-    If you see file permission error like `Fetching bundler-2.6.3.gem ERROR:  While executing gem (Gem::FilePermissionError) You don't have write permissions for the /var/lib/gems/3.2.0 directory.` or `Bundler::PermissionError: There was an error while trying to write to /usr/local/bin.`
-    Install Gems Locally (Recommended):
-    ```bash
-    bundle config set --local path 'vendor/bundle'
-    ```
-    then try run `bundle install` again. If succeeded, you should see a folder called `vendor` and open `.gitignore` then add `vendor` inside it.
+### Temperature Monitoring System
 
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
-    You may also try `bundle exec jekyll serve -l -H localhost` to ensure jekyll to use specific dependencies on your own local machine.
+End-to-end cyber-physical system for real-time temperature monitoring using ESP32, BMP280 sensors, and LoRa for data transmission.
 
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
+**Key Technologies:** ESP32, BMP280, FreeRTOS, LoRa
 
-## Using Docker
+### IoT System for Connected Devices
 
-Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
+Comprehensive IoT system integrating sensors and actuators with cloud infrastructure for real-time data analysis and remote device control.
 
-You can build and execute the container by running the following command in the repository:
+**Key Technologies:** Multiple sensor types, AWS, MQTT, Secure Communications
 
-```bash
-chmod -R 777 .
-docker compose up
-```
+## Professional Experience
 
-You should now be able to access the website from `localhost:4000`.
+- **Graduate Teaching Assistant** | Northeastern University, Toronto | 2024-2025
+- **Electrical Engineer / MEP Coordinator** | ABV Rock Group, Saudi Arabia | 2014-2020
+- **Electrical Engineer / MEP Coordinator** | Dubai Contracting Company, Saudi Arabia | 2013-2014
+- **Electrical Engineer** | World Energy Contracting Company, Saudi Arabia | 2010-2012
 
-### Using the DevContainer in VS Code
+## Education
 
-If you are using [Visual Studio Code](https://code.visualstudio.com/) you can use the [Dev Container](https://code.visualstudio.com/docs/devcontainers/containers) that comes with this Repository. Normally VS Code detects that a development coontainer configuration is available and asks you if you want to use the container. If this doesn't happen you can manually start the container by **F1->DevContainer: Reopen in Container**. This restarts your VS Code in the container and automatically hosts your academic page locally on http://localhost:4000. All changes will be updated live to that page after a few seconds.
+- **MS in Cyber-Physical Systems (IoT Concentration)** | Northeastern University, Toronto | 2023-2025
+  - GPA: 3.798/4.0
+- **BTech in Electrical & Electronics Engineering** | Jawaharlal Nehru Technological University, India | 2004-2008
 
-# Maintenance
+## Technical Skills
 
-Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
+- **IoT & Embedded Systems:** ESP32, LoRa, MQTT, BLE, Sensor Integration
+- **Programming:** Python, C, SQL, Git, Linux
+- **Cloud & Data:** AWS, Docker, Data Analytics, API Development
+- **Electrical & Building Systems:** Power Distribution, BMS, AutoCAD, MEP Coordination
 
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
+## Certifications
 
-## Bugfixes and enhancements
+- Chartered Engineer (CEng) - Institution of Engineers India
+- Lean Six Sigma Yellow Belt - TUM School of Management, Germany
+- Associate Member - OACETT (In Progress)
+- PMP Certification (In Progress)
 
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
+## Contact
 
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
+- Email: [wajidengg@gmail.com](mailto:wajidengg@gmail.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
+- GitHub: [github.com/wajidengg](https://github.com/wajidengg)
+- Portfolio: [wajidengg.github.io](https://wajidengg.github.io)
+
+## Portfolio Website
+
+This repository also hosts my portfolio website built using the [Academic Pages](https://github.com/academicpages/academicpages.github.io) template, a Jekyll-based framework for creating a beautiful, customizable academic homepage.
+
+### Website Features
+
+- Responsive design that works on mobile, tablet, and desktop
+- Sections for projects, skills, experience, and education
+- Built with Jekyll and GitHub Pages for easy maintenance
 
 ---
-<div align="center">
-    
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
-[![GitHub contributors](https://img.shields.io/github/contributors/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/graphs/contributors)
-[![GitHub release](https://img.shields.io/github/v/release/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/academicpages/academicpages.github.io/blob/master/LICENSE)
 
-[![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
-</div>
+© 2025 Wajid Hussain. All Rights Reserved.
