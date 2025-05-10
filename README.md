@@ -60,7 +60,7 @@ Comprehensive IoT system integrating sensors and actuators with cloud infrastruc
 ## Contact
 
 - Email: [wajidengg@gmail.com](mailto:wajidengg@gmail.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/whussain/)
 - GitHub: [github.com/wajidengg](https://github.com/wajidengg)
 - Portfolio: [wajidengg.github.io](https://wajidengg.github.io)
 
