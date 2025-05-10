@@ -56,7 +56,7 @@ Work experience
 * Coordinated MEP activities for the tallest building in Riyadh at time of completion
 
 ### Ministry of Interior HQ, Riyadh
-• Supervised the snag list and client handover process for the Secure Helipad and Lobby areas, covering systems such as lighting, CCTV, fire alarm, BMS, and public address.
+* Supervised the snag list and client handover process for the Secure Helipad and Lobby areas, covering systems such as lighting, CCTV, fire alarm, BMS, and public address.
   
 Skills
 ======
