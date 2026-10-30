@@ -1,79 +1,55 @@
-# Wajid Hussain - Personal Portfolio
+# Wajid Hussain — Personal Website
 
-This repository hosts my personal portfolio website showcasing my experience, projects, and expertise in Cyber-Physical Systems and IoT.
+Source for my personal website: **[wajidengg.github.io](https://wajidengg.github.io)**
 
-## About Me
+I'm a Chartered Electrical Engineer (C.Eng) and MEP coordinator with an MS in Cyber-Physical Systems (IoT) from Northeastern University. The site brings together my engineering experience, projects, education and skills, with a focus on smart buildings, industrial IoT and solar energy systems.
 
-I am a Cyber-Physical Systems engineer with a unique blend of IoT expertise and extensive electrical engineering experience. Recently graduating with an **MS in Cyber-Physical Systems** (3.798 GPA) from Northeastern University Toronto, I bridge the gap between physical infrastructure and digital technologies.
+## What's on the site
 
-With over a decade of industry experience in electrical engineering and MEP coordination for large-scale projects, I bring a practical understanding of how IoT technologies can transform traditional systems.
+- **About:** background, interests and the kind of engineering and research work I'm looking for
+- **Projects:** [ISPOS](https://github.com/wajidengg/ispos), a weather-aware solar panel orientation system, and an MQTT-based industrial telemetry pipeline
+- **Experience:** ten years of electrical and MEP coordination in Saudi Arabia, plus graduate teaching at Northeastern University
+- **Education, registration and skills**
+- **Contact:** email, LinkedIn, GitHub and a downloadable CV
 
-## Featured Projects
+## Built with
 
-### [Intelligent Solar Panel Orientation System (ISPOS)](https://github.com/wajidengg/ispos)
+The site is a single static HTML page with inline CSS and a few lines of plain JavaScript. There is no framework, build step or dependency to install.
 
-An IoT-based solar tracking system using ESP32-CAM for image processing, LoRa for communication, and edge computing with astronomical models for adaptive panel orientation.
+- Responsive layout for desktop and mobile
+- Light and dark mode, following the visitor's device setting by default and remembering their choice
+- Fonts: Source Serif 4 and Source Sans 3 from Google Fonts
+- Email address assembled in the browser to reduce spam from scrapers
+- Hosted on GitHub Pages
 
-**Key Technologies:** ESP32-CAM, LoRa, MQTT, Python, OpenCV
+## Repository structure
 
-**Achievements:** 18-22% improvement in energy capture compared to fixed panels, 99.7% system reliability during testing.
+```
+.
+├── index.html        # The whole site: content, styles and scripts
+├── cv.pdf            # Downloadable CV linked from the header
+├── images/
+│   └── wajid.jpg     # Profile photo (initials are shown if missing)
+└── README.md
+```
 
-### Temperature Monitoring System
+## Updating the site
 
-End-to-end cyber-physical system for real-time temperature monitoring using ESP32, BMP280 sensors, and LoRa for data transmission.
+- **Content:** edit the text directly in `index.html`. Each section (`about`, `projects`, `experience`, `education`, `skills`, `contact`) is marked with its own `<section>` tag.
+- **Photo:** replace `images/wajid.jpg` with a portrait-oriented image, ideally at least 600 × 750 px.
+- **CV:** replace `cv.pdf` with the latest version, keeping the same file name.
+- **Last updated date:** change the date in the footer at the bottom of `index.html`.
 
-**Key Technologies:** ESP32, BMP280, FreeRTOS, LoRa
+## Deployment
 
-### IoT System for Connected Devices
-
-Comprehensive IoT system integrating sensors and actuators with cloud infrastructure for real-time data analysis and remote device control.
-
-**Key Technologies:** Multiple sensor types, AWS, MQTT, Secure Communications
-
-## Professional Experience
-
-- **Graduate Teaching Assistant** | Northeastern University, Toronto | 2024-2025
-- **Electrical Engineer / MEP Coordinator** | ABV Rock Group, Saudi Arabia | 2014-2020
-- **Electrical Engineer / MEP Coordinator** | Dubai Contracting Company, Saudi Arabia | 2013-2014
-- **Electrical Engineer** | World Energy Contracting Company, Saudi Arabia | 2010-2012
-
-## Education
-
-- **MS in Cyber-Physical Systems (IoT Concentration)** | Northeastern University, Toronto | 2023-2025
-  - GPA: 3.798/4.0
-- **BTech in Electrical & Electronics Engineering** | Jawaharlal Nehru Technological University, India | 2004-2008
-
-## Technical Skills
-
-- **IoT & Embedded Systems:** ESP32, LoRa, MQTT, BLE, Sensor Integration
-- **Programming:** Python, C, SQL, Git, Linux
-- **Cloud & Data:** AWS, Docker, Data Analytics, API Development
-- **Electrical & Building Systems:** Power Distribution, BMS, AutoCAD, MEP Coordination
-
-## Certifications
-
-- Chartered Engineer (CEng) - Institution of Engineers India
-- Lean Six Sigma Yellow Belt - TUM School of Management, Germany
-- Associate Member - OACETT (In Progress)
-- PMP Certification (In Progress)
+Changes pushed to the `main` branch are published automatically by GitHub Pages, usually within a minute or two.
 
 ## Contact
 
-- Email: [wajidengg@gmail.com](mailto:wajidengg@gmail.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/whussain/)
+- Email: wajidengg [at] gmail [dot] com
+- LinkedIn: [linkedin.com/in/whussain](https://www.linkedin.com/in/whussain)
 - GitHub: [github.com/wajidengg](https://github.com/wajidengg)
-- Portfolio: [wajidengg.github.io](https://wajidengg.github.io)
 
-## Portfolio Website
+## License
 
-This repository also hosts my portfolio website built using the [Academic Pages](https://github.com/academicpages/academicpages.github.io) template, a Jekyll-based framework for creating a beautiful, customizable academic homepage.
-
-### Website Features
-
-- Responsive design that works on mobile, tablet, and desktop
-- Sections for projects, skills, experience, and education
-- Built with Jekyll and GitHub Pages for easy maintenance
-
----
-
-© 2025 Wajid Hussain. All Rights Reserved.
+The code in this repository may be reused under the MIT License. The written content, CV and photo are © Wajid Hussain, all rights reserved.
